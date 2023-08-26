@@ -6,4 +6,4 @@ This repository stores assets that are automatically downloaded by [AdvantageSco
 * 3D robot models
 * Joystick images & layouts
 
-All of the assets are available under "[Releases](https://github.com/Mechanical-Advantage/AdvantageScopeAssets/releases)".
+All of the assets are available through the [releases](https://github.com/Mechanical-Advantage/AdvantageScopeAssets/releases) page.
